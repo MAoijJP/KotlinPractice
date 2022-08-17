@@ -1,0 +1,2 @@
+# KotlinPractice
+to learn Kotlin
